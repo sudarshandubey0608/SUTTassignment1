@@ -1,0 +1,57 @@
+
+div
+{
+height: 40px;
+width: 100%;
+background-color:#4167b2;
+font-family: Segoe UI;
+}
+
+input
+{
+width:20%;
+padding-top: 5px;
+padding-left: 1px;
+}
+
+
+i
+{
+	 
+	color: white;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	
+ 
+}
+
+i2
+{
+	color: black;
+	padding-left: 5px;
+
+}
+div2
+{
+color: white;
+font: Segoe UI;
+font-family:Segoe UI;
+font-size: 90%;
+font-weight: bold;
+;
+
+
+}
+div3
+{
+	color: black;
+	font-weight: normal;
+	
+}
+img
+{
+	height: 22px;
+	width: 22px;
+	position: relative;
+
+}
